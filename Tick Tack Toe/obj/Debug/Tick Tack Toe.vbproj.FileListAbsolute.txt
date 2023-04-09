@@ -1,0 +1,13 @@
+C:\Users\simra\source\repos\Tick Tack Toe\Tick Tack Toe\obj\Debug\Tick Tack Toe.vbproj.AssemblyReference.cache
+C:\Users\simra\source\repos\Tick Tack Toe\Tick Tack Toe\obj\Debug\Tick Tack Toe.vbproj.SuggestedBindingRedirects.cache
+C:\Users\simra\source\repos\Tick Tack Toe\Tick Tack Toe\obj\Debug\Tick_Tack_Toe.Form1.resources
+C:\Users\simra\source\repos\Tick Tack Toe\Tick Tack Toe\obj\Debug\Tick_Tack_Toe.Resources.resources
+C:\Users\simra\source\repos\Tick Tack Toe\Tick Tack Toe\obj\Debug\Tick Tack Toe.vbproj.GenerateResource.cache
+C:\Users\simra\source\repos\Tick Tack Toe\Tick Tack Toe\obj\Debug\Tick Tack Toe.vbproj.CoreCompileInputs.cache
+C:\Users\simra\source\repos\Tick Tack Toe\Tick Tack Toe\bin\Debug\Tick Tack Toe.exe.config
+C:\Users\simra\source\repos\Tick Tack Toe\Tick Tack Toe\bin\Debug\Tick Tack Toe.exe
+C:\Users\simra\source\repos\Tick Tack Toe\Tick Tack Toe\bin\Debug\Tick Tack Toe.pdb
+C:\Users\simra\source\repos\Tick Tack Toe\Tick Tack Toe\bin\Debug\Tick Tack Toe.xml
+C:\Users\simra\source\repos\Tick Tack Toe\Tick Tack Toe\obj\Debug\Tick Tack Toe.exe
+C:\Users\simra\source\repos\Tick Tack Toe\Tick Tack Toe\obj\Debug\Tick Tack Toe.xml
+C:\Users\simra\source\repos\Tick Tack Toe\Tick Tack Toe\obj\Debug\Tick Tack Toe.pdb
